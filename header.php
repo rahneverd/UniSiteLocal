@@ -1,1 +1,9 @@
-<h1>Welcome to header</h1>
+<!DOCTYPE html>
+<html>
+    <head>
+        <?php wp_head(); ?>
+
+
+    </head>
+    <body>
+    <

@@ -5,3 +5,7 @@ Author: the Roverdevs team
 Author URI: https://roverdevs.net/
 Version: 1.0
 */
+
+body {
+    color: green;
+}
