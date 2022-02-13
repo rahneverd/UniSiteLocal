@@ -1,1 +1,7 @@
-This is our amazing custom wordpress theme.
+<?php
+
+    while(have_posts()) {
+        the_post();
+    }
+
+?>
